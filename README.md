@@ -92,7 +92,7 @@ VITE_SIMULATE_SAVE_ERROR=true
 
 ## Деплой
 
-Ссылку на публикацию https://scenario-flow-builder.vercel.app/scenarios
+Ссылку на публикацию [https://scenario-flow-builder.vercel.app/scenarios](https://scenario-flow-builder.vercel.app/)
 
 ---
 
