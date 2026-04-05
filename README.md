@@ -90,9 +90,9 @@ VITE_SIMULATE_SAVE_ERROR=true
 
 ---
 
-## Опционально: деплой
+## Деплой
 
-Сюда можно добавить ссылку на публикацию (**Vercel**, **Netlify**, **GitHub Pages** и т.п.) после `npm run build` (для статики при необходимости настроить `base` в `vite.config.ts`).
+Ссылку на публикацию https://scenario-flow-builder.vercel.app/scenarios
 
 ---
 
